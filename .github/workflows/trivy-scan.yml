@@ -10,7 +10,7 @@ on:
 
 jobs:
   build-and-scan:
-    runs-on: self-hosted-050
+    runs-on: self-hosted
 
     steps:
     - name: Checkout repository
